@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Soumyajit Das
 - 👀 I’m interested in learning new things 
-- 🌱 I’m currently learning web develo[ment
+- 🌱 I’m currently learning web development
 - 📫 How to reach me 
 e-mail : soumyajitdas059@gmail.com
 
